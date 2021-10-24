@@ -1,0 +1,1 @@
+Generates a hash value and encrypts and decrypts it with previously generated e and d values. To sign the file type "./messageDigest435 s <yourfile>.txt" and to then encrypt it type "./messageDigest435 v <yourfile>.txt.signature".

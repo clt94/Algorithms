@@ -1,0 +1,1 @@
+This program using the BigInteger library produces random integers p and q that both prime and larger than 512 bits. With these numbers n is computed by p * q. Next, phi is computed by (p - 1) * (q - 1). Then, generate an e that is coprime and with phi. Finally, d is calculated by the modular inverse of e and phi.
